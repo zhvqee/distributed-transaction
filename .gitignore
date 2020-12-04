@@ -1,0 +1,4 @@
+# Project exclude paths
+/distributed-transaction-core/target/
+/distributed-transaction-starter/target/
+/test-demo/target/
