@@ -1,0 +1,2 @@
+# distributed-transaction
+学习了seata分布式事务的优秀解决方案，现在对其自己实战造个轮子。目前实现其AT模式
